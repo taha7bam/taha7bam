@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taha7bam
-- 👀 I’m interested in coding with the fortran90 and julia and c++
+- 👀 I’m interested in coding with fortran90 and julia and c++
 - 🌱 I’m currently learning julia
 
 <!---
